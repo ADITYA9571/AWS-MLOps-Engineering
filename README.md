@@ -1,2 +1,3 @@
-# AWS-MLOps-Engineering
-End-to-end Machine Learning and MLOps projects on AWS, covering data preprocessing, model training, deployment, CI/CD, monitoring, and production workflows.
+# AWS MLOps Engineering
+
+This repository contains my hands-on work and learning projects focused on Machine Learning Operations (MLOps) using AWS.
