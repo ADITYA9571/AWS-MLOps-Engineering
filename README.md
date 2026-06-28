@@ -12,10 +12,6 @@ This repository documents my hands-on learning journey through the fundamentals 
 - 🐳 Docker
 - 📦 Docker Compose
 - 📋 Pydantic
-- 🤖 Large Language Models (LLMs) *(Coming Soon)*
-- 💬 Prompt Engineering *(Coming Soon)*
-- 🛠️ AI Agents *(Coming Soon)*
-- 🔍 Retrieval-Augmented Generation (RAG) *(Coming Soon)*
 
 ## 📁 Repository Structure
 
